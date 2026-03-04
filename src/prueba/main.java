@@ -9,7 +9,7 @@ public class main {
     static List<String> estudiantes = new ArrayList<>();
     static List<Double> calificaciones = new ArrayList<>();
      static Scanner scanner = new Scanner(System.in);
-    public main(String[] args) {
+    public static void main(String[] args) {
 
         
     	int opcion;
