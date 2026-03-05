@@ -1,6 +1,6 @@
 # lab1progra
 
-# 📘 Ejercicio en Clase 3 – Modularización en Java
+# Ejercicio en Clase 3 – Modularización en Java
 ## Curso: Programación 1
 
 ---
